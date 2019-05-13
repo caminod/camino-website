@@ -1,5 +1,5 @@
-Sitemap: https://iwouldwalk500miles.org/sitemap.xml
-Sitemap: https://iwouldwalk500miles.org/news-sitemap.xml
+Sitemap: https://caminod.github.io/camino-website/sitemap.xml
+Sitemap: https://caminod.github.io/camino-website/news-sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php

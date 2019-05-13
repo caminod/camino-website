@@ -2,13 +2,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>https://iwouldwalk500miles.org</homePageLink>
+    <homePageLink>https://caminod.github.io/camino-website</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="https://iwouldwalk500miles.org/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://iwouldwalk500miles.org/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://iwouldwalk500miles.org/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="https://iwouldwalk500miles.org/xmlrpc.php" />
-      	<api name="WP-API" blogID="1" preferred="false" apiLink="https://iwouldwalk500miles.org/wp-json/" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="https://caminod.github.io/camino-website/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://caminod.github.io/camino-website/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://caminod.github.io/camino-website/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="https://caminod.github.io/camino-website/xmlrpc.php" />
+      	<api name="WP-API" blogID="1" preferred="false" apiLink="https://caminod.github.io/camino-website/wp-json/" />
 	    </apis>
   </service>
 </rsd>
